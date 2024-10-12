@@ -48,17 +48,13 @@ Ensure the dataset is available in the working directory.
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/saifisvibinn/Customer-Churn-Prediciton)>
    ```
-2. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook:
+2. Run the Jupyter Notebook:
    ```bash
    jupyter notebook Customer_Churn_Prediction_and_Analysis.ipynb
    ```
-4. Launch the Streamlit app:
+3. Launch the Streamlit app:
    ```bash
    streamlit run app.py
    ```
