@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/e6bd3b110d1446bfb7b760ce3e4869bc/artifacts
+end_time: 1728598869062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6bd3b110d1446bfb7b760ce3e4869bc
+run_name: wise-swan-540
+run_uuid: e6bd3b110d1446bfb7b760ce3e4869bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728598863478
+status: 3
+tags: []
+user_id: drago

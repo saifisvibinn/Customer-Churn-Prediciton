@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/e77755655f004c2da840259495c1846e/artifacts
+end_time: 1728574653481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e77755655f004c2da840259495c1846e
+run_name: fortunate-fish-993
+run_uuid: e77755655f004c2da840259495c1846e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728574647238
+status: 3
+tags: []
+user_id: drago

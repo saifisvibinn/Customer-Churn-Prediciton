@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/724871c1e74f49b5ba0cef296a4fd54e/artifacts
+end_time: 1728587562664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 724871c1e74f49b5ba0cef296a4fd54e
+run_name: bold-frog-468
+run_uuid: 724871c1e74f49b5ba0cef296a4fd54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728587557129
+status: 3
+tags: []
+user_id: drago

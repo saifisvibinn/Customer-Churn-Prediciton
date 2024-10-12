@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/afe873159bb14d52bd0e7fa9d33ebe24/artifacts
+end_time: 1728585577325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afe873159bb14d52bd0e7fa9d33ebe24
+run_name: lyrical-ram-935
+run_uuid: afe873159bb14d52bd0e7fa9d33ebe24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728585572102
+status: 3
+tags: []
+user_id: drago

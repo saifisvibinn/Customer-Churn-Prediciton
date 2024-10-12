@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/8566893c953140c990b2b2ecc14d329e/artifacts
+end_time: 1728577129082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8566893c953140c990b2b2ecc14d329e
+run_name: gaudy-crab-328
+run_uuid: 8566893c953140c990b2b2ecc14d329e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728577126303
+status: 3
+tags: []
+user_id: drago

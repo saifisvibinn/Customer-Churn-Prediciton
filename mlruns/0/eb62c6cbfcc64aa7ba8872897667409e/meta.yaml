@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/eb62c6cbfcc64aa7ba8872897667409e/artifacts
+end_time: 1728589319995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb62c6cbfcc64aa7ba8872897667409e
+run_name: polite-duck-633
+run_uuid: eb62c6cbfcc64aa7ba8872897667409e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728589314511
+status: 3
+tags: []
+user_id: drago

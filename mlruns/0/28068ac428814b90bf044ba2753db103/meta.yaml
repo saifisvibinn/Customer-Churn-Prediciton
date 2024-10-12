@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/28068ac428814b90bf044ba2753db103/artifacts
+end_time: 1728588907769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28068ac428814b90bf044ba2753db103
+run_name: thundering-ram-628
+run_uuid: 28068ac428814b90bf044ba2753db103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728588904995
+status: 3
+tags: []
+user_id: drago

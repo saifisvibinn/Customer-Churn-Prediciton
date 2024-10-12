@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/02b01978ae8940fa8bdc6f32fcf72621/artifacts
+end_time: 1728586896792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02b01978ae8940fa8bdc6f32fcf72621
+run_name: judicious-asp-538
+run_uuid: 02b01978ae8940fa8bdc6f32fcf72621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728586893587
+status: 3
+tags: []
+user_id: drago

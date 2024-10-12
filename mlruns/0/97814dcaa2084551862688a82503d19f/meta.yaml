@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/97814dcaa2084551862688a82503d19f/artifacts
+end_time: 1728589036222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97814dcaa2084551862688a82503d19f
+run_name: polite-conch-63
+run_uuid: 97814dcaa2084551862688a82503d19f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728589033212
+status: 3
+tags: []
+user_id: drago

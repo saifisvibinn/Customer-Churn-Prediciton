@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/a79fc9e518054a9c92b72ae52694267f/artifacts
+end_time: 1728578260242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a79fc9e518054a9c92b72ae52694267f
+run_name: popular-stag-453
+run_uuid: a79fc9e518054a9c92b72ae52694267f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728578255789
+status: 3
+tags: []
+user_id: drago

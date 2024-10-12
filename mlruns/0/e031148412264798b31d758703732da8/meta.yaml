@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/e031148412264798b31d758703732da8/artifacts
+end_time: 1728600343064
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e031148412264798b31d758703732da8
+run_name: stylish-stork-4
+run_uuid: e031148412264798b31d758703732da8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728600340214
+status: 3
+tags: []
+user_id: drago

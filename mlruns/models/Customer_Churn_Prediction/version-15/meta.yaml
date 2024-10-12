@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728586896761
+current_stage: None
+description: null
+last_updated_timestamp: 1728586896761
+name: Customer_Churn_Prediction
+run_id: 02b01978ae8940fa8bdc6f32fcf72621
+run_link: null
+source: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/02b01978ae8940fa8bdc6f32fcf72621/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/02b01978ae8940fa8bdc6f32fcf72621/artifacts/model
+user_id: null
+version: 15

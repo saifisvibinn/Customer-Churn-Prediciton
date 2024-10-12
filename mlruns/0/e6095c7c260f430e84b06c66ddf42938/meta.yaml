@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Desktop/DEPI%20FINAL%20PROJECT/mlruns/0/e6095c7c260f430e84b06c66ddf42938/artifacts
+end_time: 1728585852353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6095c7c260f430e84b06c66ddf42938
+run_name: wise-goose-101
+run_uuid: e6095c7c260f430e84b06c66ddf42938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728585847719
+status: 3
+tags: []
+user_id: drago
