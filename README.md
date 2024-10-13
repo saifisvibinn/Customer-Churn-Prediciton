@@ -56,7 +56,7 @@ Ensure the dataset is available in the working directory.
    ```
 3. Launch the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run Customer_Churn_Prediction.py
    ```
 
 ## Results
