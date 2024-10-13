@@ -48,7 +48,7 @@ Ensure the dataset is available in the working directory.
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <[repository_url](https://github.com/saifisvibinn/Customer-Churn-Prediciton)>
+   git clone <https://github.com/saifisvibinn/Customer-Churn-Prediciton>
    ```
 2. Run the Jupyter Notebook:
    ```bash
